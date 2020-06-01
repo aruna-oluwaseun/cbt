@@ -1,7 +1,4 @@
 Online examination system on Laravel 5.2
-
-git push https://github.com/imladrisol/onlineExam.git
-
 create database "forge" on MySQL server.
 
 1. composer update
